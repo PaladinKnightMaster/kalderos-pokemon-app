@@ -13,8 +13,6 @@ Kalderos Pokémon App is a full-stack application built with ASP.NET Core for th
 - [Endpoints](#endpoints)
 - [Testing](#testing)
 - [Technologies Used](#technologies-used)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
@@ -260,19 +258,3 @@ This project uses Jest and React Testing Library for unit and integration testin
   - Axios
   - React Router
   - Material UI
-
-## Contributing
-
-Contributions are welcome! Please follow these steps:
-
-1. Fork the repository.
-2. Create a new branch for your feature or bugfix.
-3. Make your changes and commit them with descriptive messages.
-4. Push your changes to your forked repository.
-5. Open a pull request to the main repository.
-
-Please ensure all tests pass before submitting a pull request.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
