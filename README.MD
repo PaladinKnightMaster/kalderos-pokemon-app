@@ -45,7 +45,7 @@ Kalderos Pokémon App is a full-stack application built with ASP.NET Core for th
 
    ```bash
    git clone https://github.com/PaladinKnightMaster/kalderos-pokemon-app.git
-   cd kalderos-pokemon-frontend
+   cd kalderos-pokemon-app
    ```
 
 ## Running the Application Locally
