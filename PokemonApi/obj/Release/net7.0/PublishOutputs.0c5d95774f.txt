@@ -1,0 +1,14 @@
+D:\0_SKS\1_CodeGuild\Notes\Project\Test\New folder\PokemonApi\publish\PokemonApi.exe
+D:\0_SKS\1_CodeGuild\Notes\Project\Test\New folder\PokemonApi\publish\appsettings.Development.json
+D:\0_SKS\1_CodeGuild\Notes\Project\Test\New folder\PokemonApi\publish\appsettings.json
+D:\0_SKS\1_CodeGuild\Notes\Project\Test\New folder\PokemonApi\publish\pokemon.json
+D:\0_SKS\1_CodeGuild\Notes\Project\Test\New folder\PokemonApi\publish\PokemonApi.dll
+D:\0_SKS\1_CodeGuild\Notes\Project\Test\New folder\PokemonApi\publish\PokemonApi.deps.json
+D:\0_SKS\1_CodeGuild\Notes\Project\Test\New folder\PokemonApi\publish\PokemonApi.runtimeconfig.json
+D:\0_SKS\1_CodeGuild\Notes\Project\Test\New folder\PokemonApi\publish\PokemonApi.pdb
+D:\0_SKS\1_CodeGuild\Notes\Project\Test\New folder\PokemonApi\publish\Microsoft.AspNetCore.OpenApi.dll
+D:\0_SKS\1_CodeGuild\Notes\Project\Test\New folder\PokemonApi\publish\Microsoft.OpenApi.dll
+D:\0_SKS\1_CodeGuild\Notes\Project\Test\New folder\PokemonApi\publish\Newtonsoft.Json.dll
+D:\0_SKS\1_CodeGuild\Notes\Project\Test\New folder\PokemonApi\publish\Swashbuckle.AspNetCore.Swagger.dll
+D:\0_SKS\1_CodeGuild\Notes\Project\Test\New folder\PokemonApi\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\0_SKS\1_CodeGuild\Notes\Project\Test\New folder\PokemonApi\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
