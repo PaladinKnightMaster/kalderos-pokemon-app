@@ -2,6 +2,7 @@
 
 # compile
 /bin
+/obj
 
 # production
 /publish

@@ -32,7 +32,9 @@ Kalderos Pokémon App is a full-stack application built with ASP.NET Core for th
 
 ### Backend
 
-- [.NET SDK 7.0](https://download.visualstudio.microsoft.com/download/pr/10651a65-8afc-46e3-9287-fecb0e68504e/4c2bf0cdb44612f29d9b3f901098e13e/aspnetcore-runtime-7.0.20-win-x64.exe)
+- [ASP.NET Core Runtime 7.0.20](https://download.visualstudio.microsoft.com/download/pr/10651a65-8afc-46e3-9287-fecb0e68504e/4c2bf0cdb44612f29d9b3f901098e13e/aspnetcore-runtime-7.0.20-win-x64.exe)
+- [.NET Runtime 7.0.20](https://download.visualstudio.microsoft.com/download/pr/08bbfe8f-812d-479f-803b-23ea0bffce47/c320e4b037f3e92ab7ea92c3d7ea3ca1/windowsdesktop-runtime-7.0.20-win-x64.exe)
+- [.NET SKD 8.0.303](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/sdk-8.0.303-windows-x64-installer)
 
 ### Frontend
 
